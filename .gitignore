@@ -1,0 +1,3 @@
+temo
+*.log
+!debug.log
